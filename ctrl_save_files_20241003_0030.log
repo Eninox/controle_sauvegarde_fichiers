@@ -1,0 +1,40 @@
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Lancement controle sauvegardes XXXX le 03/10/2024 00:30 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Nom Sauvegarde : 	Sauvegarde1
+ Serveur : 			ServerX
+ Chemin script : 	chemin\script\sauvegarde\sauvegarde1.bat
+ Chemin Sauvegarde : 	\\chemin\destination\fichiers\appli\dossierX\dossierY*\*
+ Dernier fichier : 	01/10/2024 16:31
+ Nb fichiers : 		5 fichiers (1 073,40Mo)
+ Resultat : 		SUCCES 
+ -----------------------------------------
+
+ Nom Sauvegarde : 	Sauvegarde2
+ Serveur : 			ServerX
+ Chemin script : 	chemin\script\sauvegarde\sauvegarde2.bat
+ Chemin Sauvegarde : 	\\chemin\destination\fichiers\appli\dossierX\annee\mois*\jour\*
+ Dernier fichier : 	02/10/2024 08:03
+ Nb fichiers : 		482 fichiers (18,97Mo)
+ Resultat : 		SUCCES 
+ -----------------------------------------
+
+ Nom Sauvegarde : 	Sauvegarde3
+ Serveur : 			ServerX
+ Chemin script : 	chemin\script\sauvegarde\sauvegarde3.bat
+ Chemin Sauvegarde : 	\\chemin\destination\fichiers\appli\dossierX\dossierY*_yyyymmjj\*\*
+ Dernier fichier : 	01/10/2024 22:35
+ Nb fichiers : 		5161 fichiers (134,22Mo)
+ Resultat : 		SUCCES 
+ -----------------------------------------
+
+ Nom Sauvegarde : 	Sauvegarde4
+ Serveur : 			ServerX
+ Chemin script : 	chemin\script\sauvegarde\sauvegarde4.bat
+ Chemin Sauvegarde : 	\\chemin\destination\fichiers\annee\appli\*
+ Dernier fichier : 	02/10/2024 12:00
+ Nb fichiers : 		1238 fichiers (87 037,83Mo)
+ Resultat : 		SUCCES 
+ -----------------------------------------
