@@ -13,4 +13,5 @@ Script de contrôle multi sauvegardes avec analyse des fichiers finaux, log, ale
 * Si fichier antérieur -> ANOMALIE
 * Si chemin du dossier absent -> ANOMALIE
 7. Log des résultats en fonction des conditions
-8. Envoi d'un mail récapitulatif (au choix, envoi systématique ou seulement en cas d'anomalie)
+8. Envoi d'un mail récapitulatif (au choix, envoi systématique ou seulement en cas d'anomalie) <center>
+ ![alt text](https://github.com/Eninox/controle_sauvegarde_fichiers/blob/main/mail_exemple.png) </center> 
